@@ -6,6 +6,11 @@
 | Flutter     | 3.29 | 
 | Dart    | 3.7.0     |  
 
+
+## URL
+
+### https://oscar-cr.github.io/rick_flutter_web/ 
+
 ## Pasos para ejecutar
 Clonar el proyecto
 ```
